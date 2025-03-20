@@ -1,7 +1,6 @@
 # Implémentation d'un serveur FTP
 
 - MATTOT Julien, julien.mattot.etu@univ-lille.fr
-- MAZURE Antoine, antoine.mazure.etu@univ-lille.fr
 
 Ce logiciel permet de simuler un serveur ftp directement sur sa machine et pouvoir donc intéragir de la même manière qu'un serveur ftp distant.
 
